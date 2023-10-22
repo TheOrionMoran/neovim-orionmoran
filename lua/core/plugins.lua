@@ -36,6 +36,7 @@ require("lazy").setup({
             "MunifTanjim/nui.nvim", "s1n7ax/nvim-window-picker"
         }
     },
+    {'Mofiqul/dracula.nvim'},
     {"akinsho/bufferline.nvim", dependencies = {'nvim-tree/nvim-web-devicons'}},
     {'hrsh7th/cmp-nvim-lsp-signature-help'}, {
         'linrongbin16/lsp-progress.nvim',

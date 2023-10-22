@@ -1,7 +1,7 @@
 -- Basic config
 require("core.mappings")
 require("core.plugins")
-require("core.colors")
+require("core.dracula") -- Тема
 require("core.configs")
 
 -- Plugins config
